@@ -1,3 +1,3 @@
-# University of Birmingham: Data Analytics Bootcamp
-## VBA Challenge
+## University of Birmingham: Data Analytics Bootcamp
+### VBA Challenge
 
