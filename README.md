@@ -1,2 +1,3 @@
-# VBA-challenge
-## UoB Data Analytics Bootcamp: VBA Task
+# University of Birmingham: Data Analytics Bootcamp
+## VBA Challenge
+
