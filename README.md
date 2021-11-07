@@ -20,5 +20,5 @@ Provides further analysis by providing the following metrics from the first summ
  - Greatest % Decrease
  - Greatest Total Volume
 
-Results are as follows:
+As an example, resulting sheet for 2016 is as follows:
 ![2016 Summary](https://raw.githubusercontent.com/J-Fairgrieve/VBA-challenge/main/2016%20Data.png)
