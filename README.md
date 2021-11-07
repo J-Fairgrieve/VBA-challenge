@@ -6,7 +6,7 @@
  - Loops, conditional formatting & worksheet functions are used in the script to produce the final tables
 
 ### Results
-[The script](VBA-challenge/WallStreetVBA.vb) automatically creates two summary tables on each worksheet of the file:
+[The script](https://github.com/J-Fairgrieve/VBA-challenge/blob/main/WallStreetVBA.vb) automatically creates two summary tables on each worksheet of the file:
 
 #### **Summary Table 1: Individual Ticker Metrics**
 Summarises the Ticker's individual performance on the sheet, highlighting:
